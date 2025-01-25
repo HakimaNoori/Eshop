@@ -13,7 +13,7 @@ const ProductsCart = ({data}) => {
                             />
                             {/* hover button */}
                             <div className='hidden group-hover:flex absolute top-1/2 -translate-y-1/2 h-full w-full text-center group-hover:backdrop-blur-sm justify-center items-center duration-200'>
-                                <button className="bg-primary text-white py-2 px-4 rounded" >
+                                <button className="bg-primary text-white  py-2 px-4 rounded" >
                                     Add to cart
                                 </button>
                             </div>
